@@ -62,7 +62,7 @@ To run this application on your local machine:
 
 ## Deployment
 This application is deployed using Streamlit Community Cloud and can be accessed at:
-(Once deployed, you can paste your live app URL here)
+https://ipl-chase-predictor-israni.streamlit.app/
 
 ---
 **Developed by:** Jahnavi Israni
