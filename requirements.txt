@@ -75,7 +75,7 @@ nest-asyncio==1.6.0
 notebook==7.4.4
 notebook_shim==0.2.4
 numba==0.61.2
-numpy==1.26.4
+numpy==2.3.0 # Changed from 1.26.4 to 2.3.0 for ml_dtypes compatibility
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
 opt_einsum==3.4.0
@@ -108,7 +108,7 @@ python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
 pytweening==1.2.0
 pytz==2025.2
-pywin32==311
+# pywin32==311 # Removed: This is a Windows-specific package and causes errors on Linux deployments.
 pywinpty==2.0.15
 PyYAML==6.0.2
 pyzmq==27.0.0
