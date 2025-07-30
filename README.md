@@ -64,5 +64,9 @@ To run this application on your local machine:
 This application is deployed using Streamlit Community Cloud and can be accessed at:
 https://ipl-chase-predictor-israni.streamlit.app/
 
+## 👋 Connect!
+You can reach out to me at -
+📧 **Email:** jahnaviisrani12@gmail.com
+
 ---
 **Developed by:** Jahnavi Israni
