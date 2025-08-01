@@ -66,7 +66,7 @@ https://ipl-chase-predictor-israni.streamlit.app/
 
 ## 👋 Connect!
 You can reach out to me at -
-📧 **Email:** jahnaviisrani12@gmail.com
+ **Email:** jahnaviisrani12@gmail.com
 
 ---
 **Developed by:** Jahnavi Israni
